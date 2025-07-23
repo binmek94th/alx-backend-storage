@@ -1,1 +1,0 @@
-Simple on memory caching logic with redis
